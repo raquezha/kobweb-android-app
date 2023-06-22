@@ -25,3 +25,6 @@ kotlin-js-store
 # Gradle ignores
 .gradle
 
+/.idea/kotlinc.xml
+/.idea/misc.xml
+/.idea/vcs.xml
